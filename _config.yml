@@ -1,0 +1,28 @@
+name: TedAlger
+favicon: null
+layout_spectrum: 0.8850296325981617
+typography_spectrum: 0.21578745055012405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6583744136150926
+  lightness: 0.4879852272570133
+  saturation: 0.3897416971158236
+  rhythmicContrast: 0.14628252270631492
+purpose: []
